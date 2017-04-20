@@ -283,16 +283,13 @@ input[type=submit] {
 
 @media screen and (max-width:768px) {
     #logo {
-      margin-left: 20px;
+        margin-left: 20px;
     }
-
     #masthead {
         width: 100%
-
     }
     #main-container {
         width: 100%;
-       
     }
     .main-section {
         width: 100%;
@@ -300,10 +297,8 @@ input[type=submit] {
         float: left;
         margin: 20px;
     }
-
     .work {
-        width: 45%;    
-
+        width: 45%;
     }
     .auth-image {
         width: 65%;
@@ -313,7 +308,7 @@ input[type=submit] {
         width: 100%;
         max-width: 720px;
         float: left;
-        margin:20px;
+        margin: 20px;
         margin-bottom: 40px
     }
     footer {
@@ -322,19 +317,15 @@ input[type=submit] {
 }
 
 @media screen and (max-width:640px) {
-
     #logo {
         max-width: 630px;
         width: 100%;
         margin: 0;
-
     }
-
     nav {
         width: 100%;
         text-align: right;
         word-spacing: 120px;
-
     }
     #main-container {
         width: 100%;
@@ -345,17 +336,13 @@ input[type=submit] {
         max-width: 590px;
         width: 100%;
         float: left;
-
-       
     }
     .auth-image {
         width: 100%;
-        
     }
     .sidebar {
         max-width: 590px;
         width: 100%;
-        
     }
     footer {
         width: 100%;
